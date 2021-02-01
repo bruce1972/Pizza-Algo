@@ -1,0 +1,13 @@
+
+1.locate a pizza place near by
+2.check out menu online
+3.choose crust 
+4.choose topping 
+5.choose side 
+6.choose dinks 
+7.choose deserts 
+8.click checkout
+9.pay
+10.wait on pizza to arrive
+11.eat 
+12.write review 
